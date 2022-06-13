@@ -1,5 +1,3 @@
-#Project Proposal# 
-#Project Proposal
 <h1>Project Proposal</h1>
 
 **Situation:**
